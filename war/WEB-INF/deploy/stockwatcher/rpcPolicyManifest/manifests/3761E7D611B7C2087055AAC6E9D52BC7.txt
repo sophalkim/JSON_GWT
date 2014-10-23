@@ -1,0 +1,2 @@
+serviceClass: ssk.project.StockWatcher.client.StockPriceService
+path: 42F62EB5E9670C20AA58DF0FB064BE39.gwt.rpc
